@@ -25,4 +25,4 @@ $("input[type='text']").keypress(function(){
 //Toggles "+" button for adding new Todos
 $(".fa-plus").click(function() {
   $("input[type='text']").fadeToggle();
-})
+});
